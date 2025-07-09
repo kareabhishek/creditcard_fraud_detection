@@ -140,8 +140,6 @@ issue_tree_coggle.pdf – Root cause analysis diagram
 
 presentation.pptx – Business stakeholder deck
 
-project_video.mp4 – Final walkthrough video
-
 ## Skills Demonstrated
 Business understanding and stakeholder communication
 
